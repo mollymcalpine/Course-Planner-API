@@ -46,3 +46,4 @@ Running Locally:
 3. Run CoursePlannerApplication.java
 4. API is available at http://localhost:8080
 
+Developed as part of a course project at SFU.
